@@ -1,0 +1,20 @@
+{
+  "name": "parcel-experiments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oks234/parcel-experiments",
+  "author": "oks234 <bestspx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
