@@ -6,6 +6,8 @@
   "author": "oks234 <bestspx@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "postcss-modules": "^1.5.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },

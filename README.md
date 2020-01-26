@@ -6,7 +6,7 @@
 
 - React ✅
 - ES6 with babel ✅
-- SCSS
-- CSS Modules
+- SCSS ✅
+- CSS Modules ✅
 - Typography.js
 - Build for production
