@@ -4,8 +4,8 @@
 
 ## Feature
 
-- React
-- ES6 with babel
+- React ✅
+- ES6 with babel ✅
 - SCSS
 - CSS Modules
 - Typography.js
